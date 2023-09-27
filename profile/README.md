@@ -36,7 +36,7 @@ For organization-related queries or for more information about the research, ple
 
 - [Irina Deeva](mailto:iriny.deeva@gmail.com)
 - [Yury Kaminsky](mailto:jkaminski@niuitmo.ru)
-- [Ilia Kuptsov](mailto:ilya.kuptcov@yandex.ru)
+- [Ilia Kuptsov](mailto:ilya.kuptcov144@gmail.com)
 
 ---
 
