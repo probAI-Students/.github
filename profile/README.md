@@ -1,4 +1,4 @@
-# probAI-Students-Research-Work
+# ProbAI.Students
 
 Welcome to the **probAI-Students-Research-Work** GitHub organization! This is the central hub for hosting and showcasing the research work of students from the ProbAI research group at NSSlab, ITMO University.
 
